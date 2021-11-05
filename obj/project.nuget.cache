@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2vvWIQ+hSOx0Z9blExFhE1HUIkIrLSGK3mfA8lVf1kNiqCMq54ZC1frTFtRnCnU4qZSxnV3QbhqVfaElZclBHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AHAD RAZA\\Desktop\\pay roll project 2021\\pay roll project 2021\\pay roll project 2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AHAD RAZA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512",
+    "C:\\Users\\AHAD RAZA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\AHAD RAZA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\AHAD RAZA\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

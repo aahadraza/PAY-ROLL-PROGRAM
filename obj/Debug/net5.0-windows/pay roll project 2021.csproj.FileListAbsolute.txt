@@ -1,0 +1,22 @@
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.csproj.AssemblyReference.cache
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\App.g.cs
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021_MarkupCompile.cache
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.exe
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.deps.json
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.runtimeconfig.json
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.runtimeconfig.dev.json
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.dll
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\ref\pay roll project 2021.dll
+D:\Ahad Project\pay roll project 2021\bin\Debug\net5.0-windows\pay roll project 2021.pdb
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021_MarkupCompile.lref
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.g.resources
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.AssemblyInfoInputs.cache
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.AssemblyInfo.cs
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.csproj.CoreCompileInputs.cache
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.dll
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\ref\pay roll project 2021.dll
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.pdb
+D:\Ahad Project\pay roll project 2021\obj\Debug\net5.0-windows\pay roll project 2021.genruntimeconfig.cache

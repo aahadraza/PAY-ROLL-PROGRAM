@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pay roll project 2021/1.0.0": {
+        "runtime": {
+          "pay roll project 2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pay roll project 2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
